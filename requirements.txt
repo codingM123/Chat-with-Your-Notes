@@ -1,0 +1,8 @@
+langchain
+chromadb
+faiss-cpu
+PyPDF2
+tiktoken
+python-dotenv
+huggingface_hub
+
